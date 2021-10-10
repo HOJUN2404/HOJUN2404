@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=호준이의 세상🎨&fontSize=70&textColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CodeGream🎨&fontSize=70)
+
+
 # Harry 😉
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/haesoo9410) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:haesoo9410@gmail.com) 
