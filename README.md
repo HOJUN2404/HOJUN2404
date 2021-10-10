@@ -8,8 +8,8 @@ Daily routine :coffee:,👩‍💻,🧘
 <p align="center">
   <img src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23007ACC.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/spring%20-%2343853D.svg?&style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/oracle%20-%23FF9900.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
