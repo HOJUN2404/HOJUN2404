@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOJUN👋&fontSize=90)
-<h3 align="center"> 👋 Hi there, Welcome 👋 </h3>�
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOJUN🙋🏻‍♂️&fontSize=90)
+<h3 align="center"> 👋 Hi there, Welcome 👋 </h3>
 <p align="center">
 I'm HoJun KIM, a Back-End developer. 🌱 <br>
 Daily routine :coffee:,👩‍💻,🧘
