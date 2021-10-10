@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I'm HOJUN 👋&fontSize=90)
-<h3 align="center"> 👋 Hi there,</h3>�
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HOJUN👋&fontSize=90)
+<h3 align="center"> 👋 Hi there, Welcome 👋 </h3>�
 <p align="center">
 I'm HoJun KIM, a Back-End developer. 🌱 <br>
 Daily routine :coffee:,👩‍💻,🧘
@@ -31,7 +31,6 @@ Daily routine :coffee:,👩‍💻,🧘
 </p>
 <h3 align="center">ABOUT ME</h3>
 <p align="center" align="right">
-  <a target="_blank" href="https://hadong.dev/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://velog.io/@rlaghwns1995"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=blog.io&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="mailto:rlaghwns1995@naver.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/naver-%23D14836.svg?&style=flat-square&logo=naver&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
