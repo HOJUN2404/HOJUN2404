@@ -33,8 +33,8 @@ Daily routine :coffee:,👩‍💻,🧘
 <h3 align="center">•••</h3>
 <p align="center" align="right">
   <a target="_blank" href="https://hadong.dev/TIL"><img src="http://img.shields.io/badge/-TIL-yellow?style=flat-square&logo=github&locoColor=white"</a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://velog.io/@rlaghwns1995"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:rlaghwns1995@naver.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/naver-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://velog.io/@rlaghwns1995"><img src="https://img.shields.io/badge/Blog-%2312100E.svg?&style=flat-square&logo=velog.io&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="mailto:rlaghwns1995@naver.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/naver-%23D14836.svg?&style=flat-square&logo=naver&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
   <a target="_blank" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmetleeha%2Fhit-counter&count_bg=%2379BDF1&title_bg=%238C8C8C&icon=&icon_color=%23E98CC9&title=hits&edge_flat=false"/></a>
