@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=호준이의 세상🎨&fontSize=70&textColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=호준이의세상🎨&fontSize=70&textColor=white)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CodeGream🎨&fontSize=70)
 
 
