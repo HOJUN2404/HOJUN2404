@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=호준이의세상🎨&fontSize=70&textColor=white)
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=CodeGream🎨&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=호준이의세상🎨&fontSize=70)
 
 
-# Harry 😉
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/haesoo9410) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:haesoo9410@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev__harry) 
+# HOJUN 😉
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/HOJUN2404) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:rlaghwns1995@naver.com) 
 [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/haesoo9410) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
   
